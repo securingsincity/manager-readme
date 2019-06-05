@@ -4,9 +4,9 @@ Hi, I'm James. This document is my intention to get off on the right foot with o
 
 ## About me
 
-I live in Quincy MA with my wife Sara. We have a baby on the way in January.
+I live in Quincy MA with my wife Sara and my son Luke.
 
-I've worked at Maxwell Health for almost 5 years. When I first started my role was building out the MVP with a small team, then took on more of a lead role. I've been managing people in addition to my lead role responsibilities for the last 3 years.
+I've worked at Maxwell Health for more than 5 years. When I first started my role was building out the MVP with a small team, then took on more of a lead role. I've been managing people in addition to my lead role responsibilities for the last 3 years.
 
 My background is non traditional. I went to Emerson college to study audio engineering. Despite some front end exprience, the majority of my software engineering experience happened after college.
 
